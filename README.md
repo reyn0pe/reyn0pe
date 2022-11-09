@@ -13,7 +13,7 @@ Address : Bandung, Indonesia.
 # 𝐒𝐨𝐦𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
 
 <a href="https://github.com/thesanzu/Sanzu-Userbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thesanzu&repo=SanzuUserbot&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thesanzu&repo=Sanzu-Userbot&cache_seconds=86400&theme=gotham">
 </a>
 
 ## 𝐇𝐨𝐞 𝐘𝐨𝐮 𝐂𝐚𝐧 𝐅𝐢𝐧𝐝 𝐌𝐞 𝐚𝐧𝐝 𝐖𝐡𝐞𝐫𝐞!
