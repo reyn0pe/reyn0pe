@@ -1,6 +1,7 @@
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 :wave:, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞.
 
-<br>
+<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="495px">
+
 <p>Name : Sanzu</p>
 <p>Age : 18</p>
 <p>Address : Bandung, Indonesia.</p>
